@@ -1,0 +1,5 @@
+﻿Build started at 12:36 ص...
+1>------ Build started: Project: calcualtor_c#, Configuration: Debug Any CPU ------
+1>  calcualtor_c# -> C:\Users\DELL\source\repos\calcualtor_c#\calcualtor_c#\bin\Debug\calcualtor_c#.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:37 ص and took 01:08.940 minutes ==========
